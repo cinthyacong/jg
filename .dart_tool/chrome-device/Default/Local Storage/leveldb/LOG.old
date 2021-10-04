@@ -1,0 +1,12 @@
+2021/10/03-22:59:54.540 1578 Reusing MANIFEST C:\Users\cinth\AppData\Local\Temp\flutter_tools.dc1d3260\flutter_tools_chrome_device.dd4fb2d3\Default\Local Storage\leveldb/MANIFEST-000001
+2021/10/03-22:59:54.542 1578 Recovering log #3
+2021/10/03-22:59:54.543 1578 Reusing old log C:\Users\cinth\AppData\Local\Temp\flutter_tools.dc1d3260\flutter_tools_chrome_device.dd4fb2d3\Default\Local Storage\leveldb/000003.log 
+2021/10/03-23:06:00.922 1578 Level-0 table #5: started
+2021/10/03-23:06:00.967 1578 Level-0 table #5: 35552 bytes OK
+2021/10/03-23:06:01.000 1578 Delete type=0 #3
+2021/10/03-23:06:24.421 1578 Level-0 table #7: started
+2021/10/03-23:06:24.510 1578 Level-0 table #7: 37723 bytes OK
+2021/10/03-23:06:24.577 1578 Delete type=0 #4
+2021/10/04-00:20:29.933 3138 Level-0 table #9: started
+2021/10/04-00:20:29.983 3138 Level-0 table #9: 47597 bytes OK
+2021/10/04-00:20:30.050 3138 Delete type=0 #6
